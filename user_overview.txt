@@ -1,0 +1,30 @@
+
+                    _________________________________________
+                    User: bob                      
+                    Tasks completed: 1
+                    Tasks not completed: 1
+                    Tasks overdue: 0
+                    Task % incompleted: 50.00  
+                    Task % overdue: 0.00  
+                    _________________________________________
+                    
+
+                    _________________________________________
+                    User: admin                      
+                    Tasks completed: 2
+                    Tasks not completed: 1
+                    Tasks overdue: 1
+                    Task % incompleted: 33.33  
+                    Task % overdue: 33.33  
+                    _________________________________________
+                    
+
+                    _________________________________________
+                    User: jackson                      
+                    Tasks completed: 0
+                    Tasks not completed: 0
+                    Tasks overdue: 0
+                    Task % incompleted: 0.00  
+                    Task % overdue: 0.00  
+                    _________________________________________
+                    

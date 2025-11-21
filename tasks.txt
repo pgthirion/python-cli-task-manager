@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2010-11-12, 2023-07-12, No, 1
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-19, 2023-04-19, Yes, 2
+admin, adm, red, 2033-12-22, 2023-07-31, Yes, 3
+bob, Bake Bread, make a nice loaf of bread, 2035-02-11, 2023-05-15, No, 1
+bob, red, blue, 2022-12-12, 2023-07-31, Yes, 2
+
+bob, red, blue, 2022-12-12, 2023-07-31, Yes, 2
+, admin, test it, test, 2022-12-12, 2023-08-03, No, 3
+, admin, test it, test, 2022-12-12, 2023-08-03, No, 3, admin, red, fffff, 2023-12-12, 2023-08-03, No, 4
+, admin, test it, test, 2022-12-12, 2023-08-03, No, 3, admin, red, fffff, 2023-12-12, 2023-08-03, No, 4, admin, red, ffff, 2023-12-12, 2023-08-07, No, 5
